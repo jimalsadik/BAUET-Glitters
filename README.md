@@ -1,5 +1,5 @@
 # BAUET-Glitters
-Social Media Platform for Bangladesh Army University of Engineering & Technology (BAUET). 
+Social Media Platform for [Bangladesh Army University of Engineering & Technology (BAUET).](http://bauet.ac.bd/)
 
 ## Developing Tools: 
 
@@ -17,23 +17,23 @@ Social Media Platform for Bangladesh Army University of Engineering & Technology
 ## Developed by:
 
 * [Jim AL Sadik](https://www.facebook.com/JIMALSADIK/),
-Department of Computer Science & Engineering,
+[Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
 Email: jimalsadik@gmail.com
 
 * Rabbi Ahmed,
-Department of Computer Science & Engineering,
+[Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
 Email: rabbi202@outlook.com
 
 * Noor-I- Tasnim Monir,
-Department of Computer Science & Engineering,
+[Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
 Email: tasnimsanda@gmail.com
 
 ## Supervised By:
 
 * Md. Sumon Mia,
-Lecturer, Department of Computer Science & Engineering,
+Lecturer, [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
 Email: summon.ruetbd@gmail.com
 
 * Md. Al-Amin,
-Lecturer, Department of Computer Science & Engineering,
-Email: 
+Lecturer, [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
+Email: alamincse32@gmail.com
