@@ -1,30 +1,39 @@
 # BAUET-Glitters
 Social Media Platform for Bangladesh Army University of Engineering & Technology (BAUET). 
 
-Developed using PHP, HTML, CSS, JS, Bootstrap, MySQL, Sublime Text &amp; XAMPP.
+## Developing Tools: 
 
-A complete social website for all BAUETians. Like Facebook, Twitter & other social site. 
+* PHP
+* HTML
+* CSS
+* JS
+* Bootstrap
+* MySQL -- Database
+* Sublime Text -- Text Editor
+* XAMPP -- localhost server
 
-Developed by:
+## A complete social website for all BAUETians. Like Facebook, Twitter & other social site. 
 
-Jim AL Sadik,
+## Developed by:
+
+* [Jim AL Sadik](https://www.facebook.com/JIMALSADIK/),
 Department of Computer Science & Engineering,
 Email: jimalsadik@gmail.com
 
-Rabbi Ahmed,
+* Rabbi Ahmed,
 Department of Computer Science & Engineering,
 Email: rabbi202@outlook.com
 
-Noor-I- Tasnim Monir,
+* Noor-I- Tasnim Monir,
 Department of Computer Science & Engineering,
 Email: tasnimsanda@gmail.com
 
-Supervised By:
+## Supervised By:
 
-Md. Sumon Mia,
+* Md. Sumon Mia,
 Lecturer, Department of Computer Science & Engineering,
 Email: summon.ruetbd@gmail.com
 
-Md. Al-Amin,
+* Md. Al-Amin,
 Lecturer, Department of Computer Science & Engineering,
 Email: 
